@@ -42,5 +42,5 @@ Para executar os programas, basta baixar os códigos e submetê-los em um compil
 
 ## Vídeos
 
-
+https://github.com/projeto-de-algoritmos/Greed_ExerciciosJuizOnline/assets/58870950/6935a7ca-d487-42e5-8719-f896613bb3c2
 
